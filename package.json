@@ -1,0 +1,27 @@
+{
+  "name": "js-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint-staged": "lint-staged"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisov-ie/js-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisov-ie/js-lessons/issues"
+  },
+  "homepage": "https://github.com/denisov-ie/js-lessons#readme",
+  "dependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
